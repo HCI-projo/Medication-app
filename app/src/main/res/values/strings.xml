@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedicineReminderApp</string>
+    <string name="greeting">Hey there!</string>
+    <string name="plan">Here\'s the plan for you today:</string>
+    <string name="add">Add medication</string>
+    <string name="insertButton">ADD</string>
+    <string name="prescriptionIndicator">X</string>
+    <string name="startDate">Start date:</string>
+    <string name="numberOfTablets">Number of Tablets</string>
+    <string name="medicationName">Medication Name</string>
+    <string name="edit">Edit your medication here:</string>
+    <string name="prescriptionDetails">Prescription:</string>
+</resources>
